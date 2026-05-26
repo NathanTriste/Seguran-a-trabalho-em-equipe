@@ -90,10 +90,10 @@ body{
 }
 
 .parametro-senha_botao{
-    background-color: var(--cor-de-fundo) ;
+    background-color: var(--cor-de-fundo);
 }
  background-color: var(-- cor-de-fundo);
- color: var(--brano);
+color: var(--branco);
 border: 2px solid var(--borda);
 padding: 24px;
 font-size: 24px;
